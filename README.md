@@ -9,8 +9,9 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-Live site URL : 
-Repository URL : 
+Live site URL : https://p3lm3shka1.github.io/Social-links-profile/
+<br>
+Repository URL : https://github.com/p3lm3shka1/Social-links-profile
 
 ## My process
 
